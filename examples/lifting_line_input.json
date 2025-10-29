@@ -1,0 +1,19 @@
+{
+  "_source": "aero_tools/lifting_line.py (lines 47-64)",
+  "isElliptic": true,
+  "Ra": 8,
+  "bw": 8,
+  "cw": 1,
+  "Rt": 0.4,
+  "CLa": 6.283185307179586,
+  "aoa_deg": 5,
+  "Omega_deg": -1,
+  "das_deg": 7,
+  "pbar": -0.1,
+  "sar": 0.5,
+  "sat": 0.9,
+  "fcf_ar": 0.25,
+  "fcf_at": 0.35,
+  "de": 1.0,
+  "he": 0.85
+}
